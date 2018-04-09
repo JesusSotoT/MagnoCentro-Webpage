@@ -1,0 +1,93 @@
+2018-04-02T13:19:28+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/revslider.php(164): RevSliderAdmin->__construct('/Applications/M...')
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/includes/plugin.php(555): include_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/wordpress/wp-content/themes/dt-the7/inc/mods/tgmpa/class-tgm-plugin-activation.php(963): activate_plugin('revslider/revsl...')
+
+2018-04-02T13:19:29+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/revslider.php(164): RevSliderAdmin->__construct('/Applications/M...')
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/includes/plugin.php(555): include_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/wordpress/wp-content/themes/dt-the7/inc/mods/tgmpa/class-tgm-plugin-activation.php(963): activate_plugin('revslider/revsl...')
+
+2018-04-02T14:13:05+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/revslider.php(164): RevSliderAdmin->__construct('/Applications/M...')
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/includes/plugin.php(555): include_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/wordpress/wp-admin/plugins.php(43): activate_plugin('revslider/revsl...', 'http://localhos...', false)
+#6 {main}
+  thrown
+
+2018-04-02T14:13:10+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/revslider.php(164): RevSliderAdmin->__construct('/Applications/M...')
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/includes/plugin.php(1897): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/wordpress/wp-admin/plugins.php(172): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown
+
+2018-04-02T14:13:11+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/revslider.php(164): RevSliderAdmin->__construct('/Applications/M...')
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/includes/plugin.php(1897): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/wordpress/wp-admin/plugins.php(172): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown
+
+2018-04-02T14:42:37+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/revslider.php(164): RevSliderAdmin->__construct('/Applications/M...')
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/includes/plugin.php(555): include_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/wordpress/wp-admin/plugins.php(43): activate_plugin('revslider/revsl...', 'http://localhos...', false)
+#6 {main}
+  thrown
+
+2018-04-02T14:42:44+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/revslider.php(164): RevSliderAdmin->__construct('/Applications/M...')
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/includes/plugin.php(1897): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/wordpress/wp-admin/plugins.php(172): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown
+
+2018-04-02T14:42:44+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/revslider/revslider.php(164): RevSliderAdmin->__construct('/Applications/M...')
+#4 /Applications/MAMP/htdocs/wordpress/wp-admin/includes/plugin.php(1897): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/wordpress/wp-admin/plugins.php(172): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown
+
+2018-04-02T17:12:20+00:00 CRITICAL Uncaught Error: Call to undefined method The100_About_Theme::the100_call_plugin_api() in /Applications/MAMP/htdocs/wordpress/wp-content/themes/the100/welcome/the100_about.php:409
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(286): The100_About_Theme->the100_plugin_activation_callback('')
+#1 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/wordpress/wp-admin/admin-ajax.php(97): do_action('wp_ajax_the100_...')
+#4 {main}
+  thrown
+
